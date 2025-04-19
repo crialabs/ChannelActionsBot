@@ -6,7 +6,7 @@ Can be found on telegram as
 ## Features
 
 - Auto Approve new join requests.
-- Auto Decline new join requests.
+- Auto Decline new join requests..
 - Custom welcome messages.
 
 ## Local Hosting
